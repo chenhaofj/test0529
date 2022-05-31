@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<record_update table="sys_security_acl_role">
+  <sys_security_acl_role action="INSERT_OR_UPDATE">
+    <sys_class_name>sys_security_acl_role</sys_class_name>
+    <sys_created_by>admin</sys_created_by>
+    <sys_created_on>2022-05-31 11:35:19</sys_created_on>
+    <sys_effective>true</sys_effective>
+    <sys_id>0c16eeca5d4e499e98e54436c627abf1</sys_id>
+    <sys_mod_count>1</sys_mod_count>
+    <sys_name/>
+    <sys_package/>
+    <sys_policy/>
+    <sys_scope>a37342e367764ff5a983f969dcdd0e8b</sys_scope>
+    <sys_security_acl>51e548890558467caf8c2ee1a836d56d</sys_security_acl>
+    <sys_update_name/>
+    <sys_updated_by>admin</sys_updated_by>
+    <sys_updated_on>2022-05-31 11:35:19</sys_updated_on>
+    <sys_user_role>d93d7bd99632458ea9c44b23d7c760f5</sys_user_role>
+    <transaction_id/>
+  </sys_security_acl_role>
+</record_update>
